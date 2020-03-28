@@ -1,0 +1,15 @@
+[package]
+name = "quine-rs"
+version = "0.1.0"
+authors = ["bitofhope <bitofhope@kapsi.fi>"]
+edition = "2018"
+description = "A quine in rust."
+readme = "README.md"
+license = "ISC"
+keywords = ["quine", "useless", "waste-of-time", "fun"]
+categories = ["command-line-utilities"]
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
